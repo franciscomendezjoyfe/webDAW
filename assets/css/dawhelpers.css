@@ -1,0 +1,42 @@
+/* ----------------------- */
+/* Ayudas CSS parta DAW DI */
+/* ----------------------- */
+
+
+/* Fonts ----------------- */
+/* Size */
+.txt-size-1x { font-size: 1em;}
+.txt-size-2x { font-size: 2em;}
+.txt-size-3x { font-size: 3em;}
+.txt-size-4x { font-size: 4em;}
+.txt-size-5x { font-size: 5em;}
+
+/* Color */
+.txt-black { color:black; }
+.txt-blue  { color:blue; }
+.txt-green { color:green; }
+.txt-red   { color:red; }
+.txt-white { color:white; }
+
+/* Margins */
+.mg-0x { margin: 0em; }
+.mg-1x { margin: 1em; }
+.mg-2x { margin: 2em; }
+.mg-3x { margin: 3em; }
+.mg-4x { margin: 4em; }
+.mg-5x { margin: 5em; }
+
+/* Paddings */
+.pd-0x { padding: 0em; }
+.pd-1x { padding: 1em; }
+.pd-2x { padding: 2em; }
+.pd-3x { padding: 3em; }
+.pd-4x { padding: 4em; }
+.pd-5x { padding: 5em; }
+
+/* Backgrounds */
+.bg-black{background-color: black;}
+.bg-blue{background-color: blue;}
+.bg-green{background-color: green;}
+.bg-red{background-color: red;}
+.bg-white{background-color: white;}
